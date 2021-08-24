@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),r=a("EYWl"),c=a("pPaR"),u=a("3EhG");n.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(r.a,{title:"Home"}),l.a.createElement(c.a,null,l.a.createElement(u.a,null,"Endangered Club")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ca55d7c5fd92fae925c5.js.map
