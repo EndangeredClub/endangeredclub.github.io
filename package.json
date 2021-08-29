@@ -12,7 +12,7 @@
     "lint:fix": "eslint src/**/*.js --fix",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && cp -pvr public/* ./ && git add ./ && git commit -m 'Deploy to production' && git push"
+    "deploy": "gatsby build && cp -pvr public/* ./docs && git add ./ && git commit -m 'Deploy to production' && git push"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
